@@ -1,6 +1,6 @@
 # Todo List in React
 
-### Dispaly
+### App screenshot
 
 <img src='./screenshot.png' width='350px'>
 
